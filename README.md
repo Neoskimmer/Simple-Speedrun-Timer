@@ -1,2 +1,2 @@
-# Simple-Speedrun-Timer---The-best-speedrun-timer
+# Simple-Speedrun-Timer - The best speedrun timer
 Repo title is self explanatory
